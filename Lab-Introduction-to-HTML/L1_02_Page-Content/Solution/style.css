@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+section {
+    padding-left: 25%;
+}
+
+section header p {
+    font-style: italic;
+}
+
+section article p {
+    padding-right: 25%;
+}
