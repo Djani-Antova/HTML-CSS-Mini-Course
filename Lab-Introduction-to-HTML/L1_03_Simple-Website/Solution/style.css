@@ -1,0 +1,57 @@
+body {
+    margin: 0px;
+    font-family: sans-serif;
+  }
+  
+  nav {
+    padding: 1px;
+    background-color: rgb(219, 219, 219);
+  }
+  
+  nav ul {
+    text-align: center;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: green;
+    margin: 20px;
+  }
+  
+  nav ul li:hover {
+    background-color: green;
+    border-radius: 10px;
+  }
+  
+  a:hover {
+    color: white;
+  }
+section h1 {
+    text-align: center;
+}
+
+section {
+    padding-left: 10%;
+}
+
+section header p {
+    font-style: italic;
+}
+
+section article p {
+    padding-right: 10%;
+}
+footer {
+  padding-left: 10%;
+  text-decoration: none;
+  font-size: small;
+  font-style: italic;
+  padding-top: 2%;
+
+}
